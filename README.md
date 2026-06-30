@@ -10,7 +10,7 @@ I am a risk and compliance operations professional by background. The thread run
  
 ## Start here
  
-If you read one item, read **`ai-evaluation/RCA-001.md`** — a root-cause analysis of a documented Claude failure mode, written the way a safety or evaluation team would document one internally. It is the clearest single example of how I work.
+If you read one item, read **[RCA-001](ai-evaluation/RCA-001.md)** — a root-cause analysis of a documented Claude failure mode, written the way a safety or evaluation team would document one internally. It is the clearest single example of how I work.
  
 ## What's here
  
